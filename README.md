@@ -1,6 +1,6 @@
 # Dev Installation 🚀
 
-### Create a config folder inside root and the following in the default.json
+### Create a 'config' folder inside root and add the following in the config/default.json
 
 ```json
 {
