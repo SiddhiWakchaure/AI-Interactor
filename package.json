@@ -12,14 +12,12 @@
   "license": "MIT",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
-    "ai_interaction": "file:",
     "config": "^3.3.12",
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "mongodb": "^6.15.0",
     "mongoose": "^8.13.0",
-    "openai": "^4.89.0",
-    "validator": "^13.15.0"
+    "openai": "^4.89.0"
   },
   "devDependencies": {
     "concurrently": "^9.1.2",
